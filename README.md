@@ -14,23 +14,21 @@
 打开网页,默认会提示*`添加到主屏幕`*,安装即可
 如果没有提示,进入设置,点击安装,如图:
 
-![B1.anzhuang.jpg](https://i.loli.net/2020/11/11/WRkF2UtnliHSfym.jpg)
+<img src="https://i.loli.net/2020/11/11/WRkF2UtnliHSfym.jpg" width = "200"  align=center />
 
 #### 2.2 使用app
 分享-->分享到"各种书签"
 
-![B2share.png]()
 <img src="https://i.loli.net/2020/11/11/xaUgdhvQule4Gw1.png" width = "200"  align=center />
 
 ### 2.3 书签栏工具
 
 1. 拖拽到书签栏,备用
 
-![1.tuo.png](https://i.loli.net/2020/11/11/rBkzI16tGdiOHVZ.png)
-
+<img src="https://i.loli.net/2020/11/11/rBkzI16tGdiOHVZ.png" width = "50%"  align=center />
 2. 在需要收藏的网页,点击该书签即可
 
-![2.shoucang.png](https://i.loli.net/2020/11/11/Tm4Lcby7advMIrJ.png)
+<img src="https://i.loli.net/2020/11/11/Tm4Lcby7advMIrJ.png" width = "50%"  align=center />
 # 三、其他功能
 
 ### 快照存档功能（剪藏功能）
