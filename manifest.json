@@ -1,0 +1,30 @@
+{
+    "short_name": "各种书签",
+    "name": "各种书签",
+    "icons": [
+      {
+        "src": "https://cdn.jsdelivr.net/gh/gdtool/testing/assets/images/pwa/android-chrome-192x192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "https://cdn.jsdelivr.net/gh/gdtool/testing/assets/images/pwa/android-chrome-512x512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "share_target": {
+      "action": "/mark/add/",
+      "params": {
+        "url": "url",
+        "title": "title",
+        "text": "notes"
+      }
+    },
+    "start_url": "/?source=pwa",
+    "background_color": "#13293d",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "/",
+    "theme_color": "#13293d"
+  }
