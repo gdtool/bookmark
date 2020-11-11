@@ -13,18 +13,22 @@
 #### 2.1 安装app
 打开网页,默认会提示*`添加到主屏幕`*,安装即可
 如果没有提示,进入设置,点击安装,如图:
+
 ![B1.anzhuang.jpg](https://i.loli.net/2020/11/11/WRkF2UtnliHSfym.jpg)
 
 #### 2.2 使用app
 分享-->分享到"各种书签"
+
 ![B2share.png](https://i.loli.net/2020/11/11/xaUgdhvQule4Gw1.png)
 
 ### 2.3 书签栏工具
 
 1. 拖拽到书签栏,备用
+
 ![1.tuo.png](https://i.loli.net/2020/11/11/rBkzI16tGdiOHVZ.png)
 
 2. 在需要收藏的网页,点击该书签即可
+
 ![2.shoucang.png](https://i.loli.net/2020/11/11/Tm4Lcby7advMIrJ.png)
 # 三、其他功能
 
