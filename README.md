@@ -20,7 +20,7 @@
 分享-->分享到"各种书签"
 
 ![B2share.png]()
-<img src="https://i.loli.net/2020/11/11/xaUgdhvQule4Gw1.png" width = "50%" height = "50%"  align=center />
+<img src="https://i.loli.net/2020/11/11/xaUgdhvQule4Gw1.png" width = "200"  align=center />
 
 ### 2.3 书签栏工具
 
