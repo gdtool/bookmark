@@ -57,6 +57,22 @@
 
 <img src="https://i.loli.net/2020/11/12/t3alIZmWLT2hJH8.png" width = "300"  align=center />
 
+### API的设置
+#### API变量
+支持的变量有3:`{TITLE}`,`{URL}`,`{TYPE}`
+例如:`https://mysql.com/?title={TITLE}&url={URL}`
+
+#### POST
+同时系统会POST更多参数给API,爱接收不接收,反正会POST
+```
+        users_to_mark_id,//用户书签ID
+        user_id,//用户ID
+        label_id,/分类ID
+        apis,//你的API,{变量}已经替换完
+        mark_id,//书签ID
+        notes,//备注
+        title,//标题
+```
 ### TODO
 
 * 推送印象笔记
