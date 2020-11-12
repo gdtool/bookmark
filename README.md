@@ -1,5 +1,5 @@
 # 简介
-[各种书签](https://bookmark.gezhong.vip/ "各种书签")是[unmark](https://github.com/cdevroe/unmark "unmark")的汉化版本
+[【各种书签】](https://bookmark.gezhong.vip/ "各种书签")是[unmark](https://github.com/cdevroe/unmark "unmark")的汉化版本
 
 [https://unmark.it/](https://unmark.it/ "https://unmark.it/")是一个网络书签,支持多端操作,快捷,方便
 
@@ -10,10 +10,13 @@
  > 可对任意类别设置收藏网址后的`触发API`
 
 # 支持的操作方式
+
 ### 一、网页版
-网页版不多说,手机电脑都能用
+
+略...手机/电脑都能用
 
 ### 二、APP
+
 本项目使用PWA技术,安装更加快捷
 
 #### 2.1 安装app
@@ -27,15 +30,20 @@
 
 <img src="https://i.loli.net/2020/11/11/xaUgdhvQule4Gw1.png" width = "200"  align=center />
 
-### 2.3 书签栏工具
+### 三、 书签栏工具
 
-1. 拖拽到书签栏,备用
+1. 下图拖拽到书签栏
 
 <img src="https://i.loli.net/2020/11/12/7abQezIRlwvYHJK.png" width = "50%"  align=center />
-2. 在需要收藏的网页,点击该书签即可
+2. 在需要收藏的网页,点击该书签即可保存到【各种书签】
 
 <img src="https://i.loli.net/2020/11/11/Tm4Lcby7advMIrJ.png" width = "50%"  align=center />
-# 三、其他功能
+
+### 四、 chrome插件
+
+安装地址:[https://chrome.google.com/webstore/detail/cliffdebjbhkjmnjdcflgiopadhcljpi/related](https://chrome.google.com/webstore/detail/cliffdebjbhkjmnjdcflgiopadhcljpi/related)
+
+# 其他功能
 
 ### 快照存档功能（剪藏功能）
 自动提交到【互联网档案馆】
