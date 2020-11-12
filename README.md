@@ -25,7 +25,7 @@
 
 1. 拖拽到书签栏,备用
 
-<img src="https://i.loli.net/2020/11/11/rBkzI16tGdiOHVZ.png" width = "50%"  align=center />
+<img src="https://i.loli.net/2020/11/12/7abQezIRlwvYHJK.png" width = "50%"  align=center />
 2. 在需要收藏的网页,点击该书签即可
 
 <img src="https://i.loli.net/2020/11/11/Tm4Lcby7advMIrJ.png" width = "50%"  align=center />
