@@ -1,7 +1,12 @@
+> 有一个需求,手机上看到一篇好文章,收藏后,可否触发API?
+> 不错,这个书签主要用户是我自己,因为我要在手机上摸鱼的同时,触发API,现在一步`分享到`就搞定
 # 简介
+
 [【各种书签】](https://bookmark.gezhong.vip/ "各种书签")是[unmark](https://github.com/cdevroe/unmark "unmark")的汉化版本
 
 [https://unmark.it/](https://unmark.it/ "https://unmark.it/")是一个网络书签,支持多端操作,快捷,方便
+
+
 
 # 特色
 
