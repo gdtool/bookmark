@@ -1,6 +1,6 @@
 > 有一个需求,手机上看到一篇好文章,收藏后,可否触发API?
 
-> 不错,这个书签主要用户是我自己,因为我要在手机上摸鱼的同时,触发API,现在一步`分享到`就搞定
+> 不错,这个书签是给自己量身定做的,因为我要在手机上摸鱼的同时,触发API,现在一步`分享到`就搞定
 # 简介
 
 [【各种书签】](https://bookmark.gezhong.vip/ "各种书签")是[unmark](https://github.com/cdevroe/unmark "unmark")的汉化版本
@@ -86,5 +86,12 @@
 * 推送有道云笔记
 > 设想ing,文档还没看
 
+### 联系我 
 
+[@haopian](https://t.me/haopian)
+
+[意见反馈](https://support.qq.com/products/292696)
+
+### 会有人捐赠吗?
+[爱发电](https://afdian.net/@zhaopp)
 
