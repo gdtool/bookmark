@@ -3,6 +3,12 @@
 
 [https://unmark.it/](https://unmark.it/ "https://unmark.it/")是一个网络书签,支持多端操作,快捷,方便
 
+# 特色
+
+* 自动保存快照到【互联网档案馆】[Archive.org](https://archive.org/ "Archive.org")
+* 可以触发自定义API
+ > 可对任意类别设置收藏网址后的`触发API`
+
 # 支持的操作方式
 ### 一、网页版
 网页版不多说,手机电脑都能用
@@ -35,9 +41,16 @@
 自动提交到【互联网档案馆】
 为防止源网站倒闭，所有收藏过的网址,由系统自动提交到[Archive.org](https://archive.org/ "Archive.org")存档
 
+### 自定义触发API
+1. 在分类里设置各个分类的`触发API`(我的--> 修改分类-->类别API)
+2. API触发结果反馈到 书签的备注里
+3. API请求超时5秒,读取结果超时3秒
+> 该触发为异步,大概2分钟会触发
+
+<img src="https://i.loli.net/2020/11/12/t3alIZmWLT2hJH8.png" width = "300"  align=center />
+
 ### TODO
-* 用户自定义API
-> 用户可以自定义收藏网址后触发的API网址
+
 * 推送印象笔记
 > 设想ing,文档还没看
 * 推送有道云笔记
