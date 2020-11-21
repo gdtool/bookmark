@@ -15,7 +15,7 @@
 * 可以触发自定义API
  > 可对任意类别设置收藏网址后的`触发API`
 * 支持离线下载
- > 整合youtube_dl,支持100+视频网站离线下载
+ > 整合[youtube_dl](https://github.com/ytdl-org/youtube-dl/),支持100+视频网站离线下载,[列表](https://github.com/ytdl-org/youtube-dl/blob/master/docs/supportedsites.md)
 
 # 支持的操作方式
 
