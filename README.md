@@ -14,6 +14,8 @@
 * 自动保存快照到【互联网档案馆】[Archive.org](https://archive.org/ "Archive.org")
 * 可以触发自定义API
  > 可对任意类别设置收藏网址后的`触发API`
+* 支持离线下载
+ > 整合youtube_dl,支持100+视频网站离线下载
 
 # 支持的操作方式
 
