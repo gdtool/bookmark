@@ -20,7 +20,7 @@
  > 离线比较慢,请耐心等待
  
 ##### 电脑端演示
- <img src="https://i.loli.net/2020/11/21/pEQoB3SHUfZqbVr.gif" width = "300"  align=center />
+ <img src="https://i.loli.net/2020/11/21/pEQoB3SHUfZqbVr.gif" width = "450"  align=center />
 
 ##### 手机端演示
   <img src="https://i.loli.net/2020/11/21/bcVI57iHnFpX4fT.gif" width = "250"  align=center />
@@ -96,7 +96,7 @@
  通过youtube_dl,在后台下载到google drive ,推送到[google drive 搜索引擎](https://gezhong.vip/)
  
 ##### 电脑端演示
- <img src="https://i.loli.net/2020/11/21/pEQoB3SHUfZqbVr.gif" width = "300"  align=center />
+ <img src="https://i.loli.net/2020/11/21/pEQoB3SHUfZqbVr.gif" width = "450"  align=center />
 
 ##### 手机端演示
   <img src="https://i.loli.net/2020/11/21/bcVI57iHnFpX4fT.gif" width = "250"  align=center />
