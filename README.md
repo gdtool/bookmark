@@ -95,6 +95,20 @@
 #### 原理
  通过youtube_dl,在后台下载到google drive ,推送到[google drive 搜索引擎](https://gezhong.vip/)
  
+#### 离线下载步骤
+
+1. [保存书签](https://github.com/gdtool/bookmark#%E6%94%AF%E6%8C%81%E7%9A%84%E6%93%8D%E4%BD%9C%E6%96%B9%E5%BC%8F)
+2. 等待,不用管,通常比较慢
+ > 离线下载的人比较多,半小时到一天不等
+3. 查看
+ > 离线下载完毕的,有"视频"链接,但是不一定能马上下载,见第4条
+![image.png](https://i.loli.net/2020/11/22/F3BTI2ODbdVrqwt.png)
+
+4.打不开的原因
+> 服务器下载完,还要处理好多东西,等待搜索引擎处理完毕,方能下载
+
+
+ 
 ##### 电脑端演示
  <img src="https://i.loli.net/2020/11/21/pEQoB3SHUfZqbVr.gif" width = "600"  align=center />
 
