@@ -19,10 +19,10 @@
  
  > 离线比较慢,请耐心等待
  
-##### 电脑端演示
+### 电脑端演示
  <img src="https://i.loli.net/2020/11/21/pEQoB3SHUfZqbVr.gif" width = "600"  align=center />
 
-##### 手机端演示
+### 手机端演示
   <img src="https://i.loli.net/2020/11/21/bcVI57iHnFpX4fT.gif" width = "300"  align=center />
 
 # 支持的操作方式
