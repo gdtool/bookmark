@@ -18,6 +18,12 @@
  > 整合[youtube_dl](https://github.com/ytdl-org/youtube-dl/),支持几百个常用视频网站离线下载, [支持列表](https://github.com/ytdl-org/youtube-dl/blob/master/docs/supportedsites.md)
  
  > 离线比较慢,请耐心等待
+ 
+### 电脑端演示
+ ![bookmark.gif](https://i.loli.net/2020/11/21/pEQoB3SHUfZqbVr.gif)
+
+### 手机端演示
+ ![bookmark2.gif](https://i.loli.net/2020/11/21/bcVI57iHnFpX4fT.gif)
 
 # 支持的操作方式
 
@@ -83,6 +89,21 @@
         notes,//备注
         title,//标题
 ```
+
+### 支持离线下载
+
+#### 原理
+ 通过youtube_dl,在后台下载到google drive ,推送到[google drive 搜索引擎](https://gezhong.vip/)
+ 
+##### 电脑端演示
+ ![bookmark.gif](https://i.loli.net/2020/11/21/pEQoB3SHUfZqbVr.gif)
+
+##### 手机端演示
+ ![bookmark2.gif](https://i.loli.net/2020/11/21/bcVI57iHnFpX4fT.gif)
+ 
+
+
+
 ### TODO
 
 * 推送印象笔记
